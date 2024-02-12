@@ -1,0 +1,41 @@
+body {
+    background-color:cornsilk;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    color: lightgreen;
+    border-style:dotted;
+    border-color: goldenrod;
+}
+
+.text1,
+.text2,
+.text3 { 
+    font-family:'Courier New', Courier, monospace;
+    font-size:16px;
+}
+
+.text1 {
+    font-weight: 800;
+}
+
+#ingredients {
+    color:tomato;
+}
+
+.steps {
+    text-indent: 2%;
+    line-height:2;
+}
+
+h3 {
+    border-style: double;
+    border-color: lightgreen;
+}
+
+.ending {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(255, 48, 48, 0.979);
+    font-weight: 1000;
+}

@@ -1,0 +1,39 @@
+body { 
+    background-color:lightblue;
+}
+
+h1 {
+    color: lightcoral;
+}
+
+.text1,
+.text2,
+.text3 { 
+    font-family: 'Courier New', Courier, monospace;
+    font-size:16px;
+}
+
+#ingredients {
+    color: crimson;
+}
+
+#sidenote {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:aquamarine;
+}
+
+.steps {
+    color:crimson;
+    text-indent:2%;
+    line-height:2;
+}
+
+#optional {
+    font-weight: 400;
+    color:aqua;
+}
+
+h3 {
+    font-size:30px;
+    color:rgb(122, 7, 145);
+}

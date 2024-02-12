@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(243, 66, 60);
+}
+
+.text1,
+.text2,
+.text3 {
+font-family: 'Courier New', Courier, monospace;
+}
+
+.text1,
+.text2 {
+    color:blueviolet;
+    font-size: 14px;
+}
+
+.text3 {
+    color:orange;
+    font-size: 17px;
+    font-weight: 900;
+}
+
+.ingredients {
+    background-color: orangered;
+    color:blanchedalmond;
+}
+#steps {
+    color:whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-indent: 1px;
+    line-height: 2;
+}
+
